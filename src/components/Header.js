@@ -10,7 +10,7 @@ const Header = () => {
             <h2>Little Lemon</h2>
             <h3>Chicago</h3>
             <p>We are a family-owned restaurant specializing in authentic Thai cuisine, where we blend time-honored recipes with a contemporary flair.</p>
-            <Link to="/Booking.js"><button>Reserve a Table</button></Link>
+            <Link to="/Booking"><button>Reserve a Table</button></Link>
             </div>
             <div>
                 <img src={food1} />
