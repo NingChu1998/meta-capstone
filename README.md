@@ -1,12 +1,10 @@
-# Getting Started with Create React App
+# Capstone Project (Coursera) - Little Lemon Restaurant Booking Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
+This project was an assignment in Meta's Coursera Front-End Development course.
 
-## Available Scripts
+The website's primary focus was to demonstrate the implementation of a booking application within the context of the Little Lemon Website. 
 
-In the project directory, you can run:
+Notice: the only fully operational feature is the "Reserve a Table" function. The project primarily emphasizes its design and serves as a practical example of React and API integration.
 
-### `npm start`
 
-Runs the app in the development mode.\
-This is Little Lemon Restaurant  Capstone project
