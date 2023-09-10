@@ -6,12 +6,12 @@ const Nav = () => {
         <nav>
             <img src={littlelemon_logo} alt="Little Lemon Logo" ></img>
             <ul>
-                <li><a>Home</a></li>
-                <li><a>About</a></li>
-                <li><a>Menu</a></li>
-                <li><a>Bookings</a></li>
-                <li><a>Order Online</a></li>
-                <li><a>Login</a></li>
+                <li><a  href="/">Home</a></li>
+                <li><a href="/">About</a></li>
+                <li><a href="/">Menu</a></li>
+                <li><a href="/">Bookings</a></li>
+                <li><a href="/">Order Online</a></li>
+                <li><a href="/">Login</a></li>
             </ul>
         </nav>
     )

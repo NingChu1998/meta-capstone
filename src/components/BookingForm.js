@@ -44,7 +44,6 @@ const BookingForm = (props) => {
                 <label htmlFor="book-occasion">Occasion</label>
                 <select id="book-occasion" key={occasion} value={occasion} onChange={(e) => setOccasion(e.target.value)} required>
                 <option value="">Select an Option</option>
-                    <option>Select Occasion</option>
                     <option>Birthday</option>
                     <option>Anniversary</option>
                 </select>
